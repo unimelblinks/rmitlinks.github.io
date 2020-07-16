@@ -4,6 +4,9 @@ _site
 _/
 .DS_Store
 
+# Ruby Gems for Jekyll
+vendor/
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
